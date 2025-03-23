@@ -1,0 +1,11 @@
+Nextera Transposase Adapters
+
+The following transposase adapters are used for Nextera tagmentation.
+
+Read 1
+
+5′ TCGTCGGCAGCGTCAGATGTGTATAAGAGACAG
+
+Read 2
+
+5′ GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG
