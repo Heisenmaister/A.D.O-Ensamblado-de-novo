@@ -1,0 +1,5 @@
+Tanto los análisis FastQC de las lecturas ampliadas raw, como los de las lecturas ampliadas trimmed
+pesan más de 25 mb, lo que imposibilita su almacenamiento en GitHub. Remitimos al historial del
+proyecto en Galaxy si se desea acceder a ellas.
+
+https://usegalaxy.org/u/eisenmaister/h/a-d-o-ensamblado-de-novo
